@@ -1,0 +1,9 @@
+#header .content{
+    background-color: green;
+}
+#main .content{
+    background-color: blue;
+}
+#footer .content{
+    background-color: orange;
+}
